@@ -1,0 +1,11 @@
+T:\code\core\theworld\TheWorld\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.deps.json
+T:\code\core\theworld\TheWorld\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.runtimeconfig.json
+T:\code\core\theworld\TheWorld\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.runtimeconfig.dev.json
+T:\code\core\theworld\TheWorld\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.dll
+T:\code\core\theworld\TheWorld\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.pdb
+T:\code\core\theworld\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.csprojResolveAssemblyReference.cache
+T:\code\core\theworld\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.csproj.CoreCompileInputs.cache
+T:\code\core\theworld\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.AssemblyInfoInputs.cache
+T:\code\core\theworld\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.AssemblyInfo.cs
+T:\code\core\theworld\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.dll
+T:\code\core\theworld\TheWorld\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.pdb
